@@ -1,0 +1,36 @@
+/// @defgroup modelview 3D ModelViewer
+
+/// @defgroup tutorial01h Tutorial 01 - Sample ObjGL Host
+
+/// @defgroup tutorial01c Tutorial 01 - Sample ObjGL Client
+
+/// @defgroup tutorial02h Tutorial 02 - Sample ObjGL Host
+
+/// @defgroup tutorial02c Tutorial 02 - Sample ObjGL Client - Stereo
+
+/// @defgroup renexec ObjGL Display Renderer
+
+/// @defgroup commandobjgl ObjGL Command Manager Library
+
+/// @defgroup commonobjgl ObjGL Common Utility Library
+
+/// @defgroup coreobjgl ObjGL Core Library
+
+/// @defgroup factoryobjgl ObjGL Factory Library
+
+/// @defgroup messageobjgl ObjGL Message Library
+
+/// @defgroup objgl ObjGL Library
+
+/// @defgroup ogl21ffobjgl OpenGL 2.1 Fixed Function Factory
+
+/// @defgroup ogl33ffobjgl OpenGL 3.3 Fixed Function Factory
+
+/// @defgroup ogl46sobjgl OpenGL 4.6 Shader Factory
+
+/// @defgroup requestobjgl ObjGL Request Library
+
+/// @defgroup shapeobjgl ObjGL Shape Library
+
+/// \namespace ObjGL
+/// \brief Object Graphics Language namespace
